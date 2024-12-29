@@ -3,9 +3,7 @@
 A new method of combining different interval sequences to reconstruct the time series matrix. 
 
 ![image](https://github.com/user-attachments/assets/24583c41-779d-4972-b249-fab334efd2e6)
-## Training
-
-### Fast setup: training DINOv2 ViT-L/16 on ImageNet-1k
+## Train and evaluation
 
 To train CNN-LSTM-AM:
 
