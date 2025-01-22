@@ -4,6 +4,8 @@ A new method of combining different interval sequences to reconstruct the time s
 ![image](https://github.com/user-attachments/assets/ddc245e4-e9f8-4e59-b6fb-496d120f5439)
 ## Combine long interval time series and short interval time series 
 ![image](https://github.com/user-attachments/assets/24583c41-779d-4972-b249-fab334efd2e6)
+## ACN Dataset
+The 1-minute processed time Series of ACN Dataset could find in https://huggingface.co/datasets/gyboo/ACN_Dataset
 ## Train and evaluation
 
 To train CNN-LSTM-AM:
